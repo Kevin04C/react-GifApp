@@ -35,6 +35,12 @@ exports[`Prubea en el componente <GifsGrid /> debe mostrar los items cuando se c
       title="Cualquier cosa"
       url="https://locahost/cualquiercosa.jpg"
     />
+    <GifGridItem
+      id="123"
+      key="123"
+      title="Cualquier cosa"
+      url="https://locahost/cualquiercosa.jpg"
+    />
   </div>
 </Fragment>
 `;
