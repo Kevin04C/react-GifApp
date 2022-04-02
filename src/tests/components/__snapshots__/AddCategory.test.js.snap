@@ -4,7 +4,6 @@ exports[`Prueba en el archivo <AddCategory /> Debe devolver el componente render
 <form
   onSubmit={[Function]}
 >
-  <p />
   <input
     autoComplete="off"
     id="input"
