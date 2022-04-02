@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en el archivo GifGridItem prueba de snapshot 1`] = `
+<div
+  className="gifs__item animate__animated animate__fadeInUpBig "
+>
+  <img
+    alt="Título de prueba"
+    src="https://localhost.jpg"
+  />
+  <p>
+     
+    Título de prueba
+  </p>
+</div>
+`;

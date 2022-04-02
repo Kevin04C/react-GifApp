@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prubea en el componente <GifsGrid /> Debe devolver un snapshot del componente 1`] = `
+<Fragment>
+  <h3>
+    UN SHOW MAS
+  </h3>
+  <img
+    alt="cargando"
+    className="loader"
+    src="loader.svg"
+  />
+  <div
+    className="gifs__container"
+  />
+</Fragment>
+`;
+
+exports[`Prubea en el componente <GifsGrid /> debe mostrar los items cuando se carga la informacion 1`] = `
+<Fragment>
+  <h3>
+    UN SHOW MAS
+  </h3>
+  <img
+    alt="cargando"
+    className="loader"
+    src="loader.svg"
+  />
+  <div
+    className="gifs__container"
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="Cualquier cosa"
+      url="https://locahost/cualquiercosa.jpg"
+    />
+  </div>
+</Fragment>
+`;
